@@ -105,16 +105,3 @@ Evaluation on all datasets:
 python eval_all.py
 ```
 Results will be saved in `results.xlsx`.
-
-## Citation
-
-```
-@inproceedings{lan2024proxyclip,
-  title={Proxyclip: Proxy attention improves clip for open-vocabulary segmentation},
-  author={Lan, Mengcheng and Chen, Chaofeng and Ke, Yiping and Wang, Xinjiang and Feng, Litong and Zhang, Wayne},
-  booktitle={European Conference on Computer Vision},
-  pages={70--88},
-  year={2024},
-  organization={Springer}
-}
-```
