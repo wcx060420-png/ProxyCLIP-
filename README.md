@@ -56,16 +56,12 @@ pip install -r requirements.txt
 
 ## Datasets
 We include the following dataset configurations in this repo: 
-1) `With background class`: PASCAL VOC, PASCAL Context, PASCAL Context 459 (PC459), Cityscapes, ADE20k, ADE847, and COCO-Stuff164k, 
-2) `Without background class`: VOC20, Context59 (i.e., PASCAL VOC and PASCAL Context without the background category), and COCO-Object.
+1) `Semantic Segmentation`: OpenEarthMap
+2) `Building Extraction`: 
+4) `Road Extraction`: 
+5) `Water Extraction`: 
 
-For PASCAL Context 459 and ADE847, please follow the [CAT-Seg](https://github.com/KU-CVLAB/CAT-Seg/tree/main/datasets) to prepare the datasets.
-For the other datasets, please follow the [MMSeg data preparation document](https://github.com/open-mmlab/mmsegmentation/blob/main/docs/en/user_guides/2_dataset_prepare.md) to download and pre-process the datasets. 
-The COCO-Object dataset can be converted from COCO-Stuff164k by executing the following command:
-
-```
-python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
-```
+Please refer to [dataset_prepare.md](https://github.com/likyoo/SegEarth-OV/blob/main/dataset_prepare.md) for dataset preparation.
 
 ## Quick Inference
 ```
