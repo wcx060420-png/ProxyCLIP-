@@ -6,36 +6,7 @@ Proxy Attention Improves CLIP for Open-Vocabulary Segmentation+
 
 <h1>ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation+</h1>
 
-<div>
-    <a href='https://mc-lan.github.io/' target='_blank'>Mengcheng Lan</a><sup>1</sup>&emsp;
-    <a href='https://chaofengc.github.io/' target='_blank'>Chaofeng Chen</a><sup>1</sup>&emsp;
-    <a href='https://keyiping.wixsite.com/index' target='_blank'>Yiping Ke</a><sup>2</sup>&emsp;
-    <a href='https://scholar.google.com.hk/citations?user=q4lnWaoAAAAJ&hl=en&inst=8669986779262753491&oi=ao' target='_blank'>Xinjiang Wang</a><sup>3</sup>&emsp;
-    <a href='https://scholar.google.com.hk/citations?user=PnNAAasAAAAJ&hl=en' target='_blank'>Litong Feng</a><sup>3</sup>&emsp;
-    <a href='https://www.statfe.com/' target='_blank'>Wayne Zhang</a><sup>3,4</sup>&emsp;
-</div>
-<div>
-    <sup>1</sup>S-Lab, Nanyang Technological University&emsp; 
-    <sup>2</sup>CCDS, Nanyang Technological University&emsp; 
-    <sup>3</sup>SenseTime Research&emsp;
-</div>
-<div>
-    <sup>4</sup>Guangdong Provincial Key Laboratory of Digital Grid Technology&emsp;
-</div>
 
-<div>
-    <strong>Accepted to ECCV 2024</strong>
-</div>
-
-<div>
-    <h4 align="center">
-        • <a href="https://arxiv.org/abs/2408.04883" target='_blank'>[arXiv]</a> •
-    </h4>
-</div>
-
-<img src="assets/framework.jpg" width="700px"/>
-
-</div>
 
 
 ## Dependencies and Installation
