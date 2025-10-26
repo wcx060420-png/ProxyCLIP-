@@ -1,10 +1,10 @@
-# ProxyCLIP-
+# ProxyCLIP+
 Proxy Attention Improves CLIP for Open-Vocabulary Segmentation+
 
 
 <div align="center">
 
-<h1>ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation</h1>
+<h1>ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation+</h1>
 
 <div>
     <a href='https://mc-lan.github.io/' target='_blank'>Mengcheng Lan</a><sup>1</sup>&emsp;
