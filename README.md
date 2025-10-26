@@ -2,7 +2,7 @@
 Proxy Attention Improves CLIP for Open-Vocabulary Segmentation+
 
 
-<div align="center">
+
 
 <h1>ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation+</h1>
 
